@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Amazon Project
+## A Basic Amazon Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A amazon test Project*
 
 **Java 8**
 
